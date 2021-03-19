@@ -22,8 +22,8 @@ that I like and reinvesting myself from time to time as well as studying and acq
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"/></code>
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&layout=compact)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&theme=tokyonight)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&theme=dark)
 <!--
 **kevinShogun/kevinShogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
