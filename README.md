@@ -25,7 +25,7 @@ that I like and reinvesting myself from time to time as well as studying and acq
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"/></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></code>
-
+<code><img height="30" src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/redux.svg"/></code>
 
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=compact)
