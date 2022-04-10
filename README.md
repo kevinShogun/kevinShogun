@@ -20,12 +20,7 @@ that I like and reinvesting myself from time to time as well as studying and acq
 **Languages**
 
  <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
- <code><img height="40" src="https://avatars.githubusercontent.com"></code>
-
-**Frameworks**
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"/></code>
+ <<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/></code>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&theme=dark)
