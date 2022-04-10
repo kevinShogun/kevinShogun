@@ -13,14 +13,13 @@ that I like and reinvesting myself from time to time as well as studying and acq
 
 **Languages**
 
-<code>
- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
  <code><img height="35" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 
 
 **Languages**
 
-<code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+ <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
  <code><img height="40" src="https://avatars.githubusercontent.com"></code>
 
 **Frameworks**
