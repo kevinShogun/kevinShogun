@@ -22,8 +22,9 @@ that I like and reinvesting myself from time to time as well as studying and acq
  <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"/></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"/></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></code>
 
 
 
