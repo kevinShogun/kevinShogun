@@ -22,7 +22,7 @@ that I like and reinvesting myself from time to time as well as studying and acq
  <code><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/></code>
  
-<code>
+
  <svg width="245px" height="64px" viewBox="0 0 245 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
     <title>redux</title>
@@ -47,7 +47,7 @@ that I like and reinvesting myself from time to time as well as studying and acq
         </g>
     </g>
 </svg>
-</code>
+
 
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=compact)
