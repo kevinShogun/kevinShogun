@@ -28,8 +28,8 @@ that I like and reinvesting myself from time to time as well as studying and acq
 <code><img height="30" src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/redux.svg"/></code>
 
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&theme=dark)
+![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=compact)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&theme=dark)
 <!--
 **kevinShogun/kevinShogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
