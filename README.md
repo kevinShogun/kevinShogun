@@ -1,4 +1,4 @@
-[# Hi there 👋
+[# Hi there 👋]
 
 Hi, I'm Kevin, a junior developer 💻 with great passion and taste for programming ⚡, 
 I specialize in the field of web development 🌐, however I really like mobile 📱 
