@@ -1,4 +1,6 @@
-[#] Hi there 👋
+[# Hi there 👋]
+
+
 
 Hi, I'm Kevin, a junior developer 💻 with great passion and taste for programming ⚡, 
 I specialize in the field of web development 🌐, however I really like mobile 📱 
@@ -8,6 +10,8 @@ Anyway, I love ❤ being constantly learning 💡 about the development technolo
 that I like and reinvesting myself from time to time as well as studying and acquiring new knowledge.
 
 🐣 Connect with me in [Twitter](https://twitter.com/gkevin_y).
+
+My [Portfolio] (https://kevin-yamil-garcia-lopez.netlify.app/)
 
 ## "If you can imagine it, you can program it ... 💻🌟"
 
