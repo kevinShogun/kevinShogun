@@ -38,12 +38,12 @@ that I like and reinvesting myself from time to time as well as studying and acq
 
 ### 🔥 &nbsp; My GitHub Stats :
 <div align="center" gap="40px">
-  <img src="https://github-readme-stats.vercel.app/api?username=deyvida&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"     align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deyvida&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"     align="center" style="width: 50%" />
 </div>  
 <br/>  
 <div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvida&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=deyvida&theme=tokyonight" align="center" style="width: 47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinShogun&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kevinShogun&theme=tokyonight" align="center" style="width: 47%" />
 </div>  
 <br/>  
 
