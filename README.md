@@ -41,8 +41,7 @@ that I like and reinvesting myself from time to time as well as studying and acq
 </div>  
 <br/>  
 <div >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinShogun&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  [//]: # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinShogun&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinShogun&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kevinShogun&theme=tokyonight" align="center" style="width: 47%" />
 </div>  
 <br/>  
