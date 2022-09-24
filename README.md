@@ -41,7 +41,9 @@ that I like and reinvesting myself from time to time as well as studying and acq
 </div>  
 <br/>  
 <div >
-  <img src="https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
+ <!--
+ <img src="https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
+-->
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kevinShogun&theme=tokyonight" align="center" style="width: 47%" />
 </div>  
 <br/>  
