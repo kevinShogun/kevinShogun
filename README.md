@@ -44,10 +44,11 @@ that I like and reinvesting myself from time to time as well as studying and acq
 <br/>  
 <div >
  <!--
- <img src="https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=compact&theme=tokyonight" align="center" style="width: 40%" />
+https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=compact&theme=tokyonight
+ <img src="" align="center" style="width: 40%" />
 -->
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kevinShogun&theme=tokyonight" align="center" style="width: 50%" />
- <img src="https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"     align="center" style="width: 50%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"     align="center" style="width: 50%" />
 </div>  
 <br/>  
 
