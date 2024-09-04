@@ -2,9 +2,9 @@
 
 
 
-Hi, I'm Kevin, a junior developer 💻 with great passion and taste for programming ⚡, 
+Hi, I'm Kevin, a frontend developer 💻 with great passion and taste for programming ⚡, 
 I specialize in the field of web development 🌐, however I really like mobile 📱 
-development with flutter and react native, I like development with .NET technologies
+development with flutter and react native, I like development with TS stack tecnologies
 
 Anyway, I love ❤ being constantly learning 💡 about the development technologies ⌨
 that I like and reinvesting myself from time to time as well as studying and acquiring new knowledge.
