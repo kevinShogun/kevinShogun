@@ -1,5 +1,3 @@
-Claro, aquí tienes una versión mejorada de tu README para GitHub:
-
 ---
 
 # Hi there 👋
@@ -38,4 +36,3 @@ I'm **Kevin**, a passionate **frontend developer** 💻 with a flair for program
 
 ---
 
-Feel free to adjust any section to better reflect your personal style or the specific aspects of your work and experience.
