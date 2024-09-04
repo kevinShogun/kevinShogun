@@ -44,6 +44,7 @@ https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=co
  <img src="" align="center" style="width: 40%" />
 -->
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kevinShogun&theme=merko" align="center" style="width: 50%" />
+ <br />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"     align="center" style="width: 50%" />
 </div>  
 <br/>  
