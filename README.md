@@ -38,7 +38,7 @@ that I like and reinvesting myself from time to time as well as studying and acq
 ### 🔥 &nbsp; My GitHub Stats :
  
 <br/>  
-<div alig="center" display="flex">
+<div alig="center" display="flex" style="display: flex; width: 100%">
  <!--
 https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=compact&theme=tokyonight
  <img src="" align="center" style="width: 40%" />
