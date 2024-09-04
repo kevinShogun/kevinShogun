@@ -25,7 +25,7 @@ I'm **Kevin**, a passionate **frontend developer** 💻 with a flair for program
 
 <br/>  
 
-![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=donut)
+![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&layout=donut-vertical)
 
 
 
