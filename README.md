@@ -1,5 +1,3 @@
----
-
 # Hi there 👋
 
 I'm **Kevin**, a passionate **frontend developer** 💻 with a flair for programming ⚡. I specialize in **web development** 🌐 and have a keen interest in **mobile development** 📱 with **Flutter** and **React Native**. I thrive on working with the **TypeScript stack** technologies and love being constantly engaged in learning 💡 and exploring new advancements in development.
@@ -33,6 +31,3 @@ I'm **Kevin**, a passionate **frontend developer** 💻 with a flair for program
   <img src="https://github-readme-stats.vercel.app/api?username=kevinShogun&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" style="width: 50%;" alt="GitHub Stats"/>
 </div>  
 <br/>  
-
----
-
