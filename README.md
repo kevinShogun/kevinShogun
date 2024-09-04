@@ -42,7 +42,9 @@ that I like and reinvesting myself from time to time as well as studying and acq
 -->
 </div>  
 <br/>  
-<div >
+<div 
+  style="display:flex"
+ >
  <!--
 https://github-readme-stats.vercel.app/api/langs/?username=kevinShogun&layout=compact&theme=tokyonight
  <img src="" align="center" style="width: 40%" />
