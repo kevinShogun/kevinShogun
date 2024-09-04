@@ -23,6 +23,12 @@ I'm **Kevin**, a passionate **frontend developer** 💻 with a flair for program
 <code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"/></code>
 <code><img height="30" src="https://cdn.rawgit.com/prplx/svg-logos/master/svg/redux.svg" alt="Redux"/></code>
 
+<br/>  
+
+![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevinShogun&hide_progress=false&layout=donut)
+
+
+
 ### 🔥 GitHub Stats:
 
 <br/>  
